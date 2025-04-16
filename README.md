@@ -11,5 +11,5 @@ This is a sample 3 tier webapp about asian restaurant.
 [github.com/cheulong/bun-restaurant-api](https://github.com/cheulong/bun-restaurant-api)
 
 #### Infra
-[github.com/cheulong/bun-restaurant-infra](https://github.com/cheulongbun-restaurant-infra)
+[github.com/cheulong/bun-restaurant-infra](https://github.com/cheulong/bun-restaurant-infra)
 
